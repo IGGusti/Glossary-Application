@@ -1,4 +1,4 @@
-# Glossary-Application
+# Glossary Application
 
 Big Project 
 
