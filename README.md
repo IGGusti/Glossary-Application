@@ -1,5 +1,8 @@
 # Glossary-Application
-Big Project A Console Application in Pascal. An application that can create, read, update and delete from the glossary that is already available.
+
+Big Project 
+
+A Console Application in Pascal. An application that can create, read, update and delete from the glossary that is already available.
 
 Glosarium adalah daftar kata yang memuat terjemahan/pengertian dari kata-kata asing yang diartikan dalam kalimat sebuah buku atau wacana tersebut dengan abjad yang berurutan ataupun acak, dan ditulis secara detail. Biasanya, glosarium ditemukan pada bagian paling belakang buku.
 
