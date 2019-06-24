@@ -10,5 +10,5 @@ Pada awal Program Glosarium ada 2 penginputan username, dengan kondisi:
 a.	Jika kita menginputkan username “admin” dan paswordnya juga “admin” maka kita dapat membaca glosarium, menambah arsip data glosarium, menghapus arsip data glosarium, mencari kata di dalam data glosarium dan mereset data glosarium.
 b.	Jika menginputkan username “user” maka kita dapat membaca glosarium dan mencari kata di dalam data glosarium.
 
-Requirement :
+Requirement:
 - Aplikasi running Pascal.
