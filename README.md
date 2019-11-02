@@ -11,4 +11,4 @@ a.	Jika kita menginputkan username “admin” dan paswordnya juga “admin” m
 b.	Jika menginputkan username “user” maka kita dapat membaca glosarium dan mencari kata di dalam data glosarium.
 
 Requirement:
-- Aplikasi running Pascal.
+- Pascal Compiler Application.
